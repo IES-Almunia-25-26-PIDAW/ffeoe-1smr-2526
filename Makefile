@@ -1,7 +1,7 @@
-IMAGE=mi-doc-pandoc
-PDF=output/documento.pdf
+IMAGE=ffeoe-1smr-2526
+PDF=output/ffeoe-1smr-2526.pdf
 
-build-image:
+build:
 	docker build -t $(IMAGE) .
 
 pdf:
