@@ -1,4 +1,54 @@
-fontsize: 12pt
-geometry: margin=2.5cm
+# ──────────────────────────────────────────────
+#  Metadatos del documento
+# ──────────────────────────────────────────────
+title:    "Libro de Actividades"
+subtitle: "1er Semestre · Formación y Orientación del Emprendimiento"
+author:   "I.E.S. Almunia"
+date:     \today
+lang:     es-ES
+
+# ──────────────────────────────────────────────
+#  Tipografía y márgenes
+# ──────────────────────────────────────────────
+fontsize: 11pt
+geometry: "top=2.5cm, bottom=2.8cm, left=2.8cm, right=2.8cm"
 colorlinks: true
-linkcolor: blue
+linkcolor: "iesblue"
+
+# ──────────────────────────────────────────────
+#  Eisvogel — Portada
+# ──────────────────────────────────────────────
+titlepage:            true
+titlepage-color:      "FFFFFF"
+titlepage-text-color: "1C6EA4"
+titlepage-rule-color: "1C6EA4"
+titlepage-rule-height: 4
+titlepage-logo:       "assets/logo.png"
+logo-width:           "35mm"
+
+# ──────────────────────────────────────────────
+#  Eisvogel — Cabecera y pie
+#  header-left  → ihead* (interior/izquierda en páginas impares)
+#  header-right → ohead* (exterior/derecha en páginas impares)
+# ──────────────────────────────────────────────
+header-left:   "\\includegraphics[height=0.75cm]{assets/logo.png}"
+header-center: ""
+header-right:  "Libro de Actividades"
+footer-left:   "\\textit{I.E.S. Almunia}"
+footer-center: ""
+footer-right:  "\\thepage"
+
+# ──────────────────────────────────────────────
+#  Tabla de contenidos
+# ──────────────────────────────────────────────
+toc:          true
+toc-own-page: true
+toc-title:    "Índice de actividades"
+
+# ──────────────────────────────────────────────
+#  LaTeX extra: nueva página antes de cada H1
+#  (etoolbox ya está cargado por Eisvogel)
+# ──────────────────────────────────────────────
+header-includes:
+  - \definecolor{iesblue}{HTML}{1C6EA4}
+  - \pretocmd{\section}{\clearpage}{}{}

@@ -1,21 +1,27 @@
-IMAGE=ffeoe-1smr-2526
-PDF=output/ffeoe-1smr-2526.pdf
+IMAGE   = ffeoe-1smr-2526
+PDF     = output/libro-actividades.pdf
 
+# Recoge todos los .md de actividades/ en orden alfabético
+SOURCES = $(sort $(wildcard actividades/*.md))
+
+# ────────────────────────────────────────────
 build:
 	docker build -t $(IMAGE) .
 
+# ────────────────────────────────────────────
 pdf:
 	mkdir -p output
 	docker run --rm \
 		-v $(PWD):/data \
 		$(IMAGE) \
-		documento.md \
+		$(SOURCES) \
 		--from markdown \
-		--template=template.tex \
+		--template=eisvogel \
 		--metadata-file=metadata.yaml \
 		--pdf-engine=xelatex \
-		--toc \
+		--listings \
 		-o $(PDF)
 
+# ────────────────────────────────────────────
 clean:
-	rm -rf output/*
+	rm -rf output/*.pdf
