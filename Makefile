@@ -1,8 +1,8 @@
 IMAGE   = ffeoe-1smr-2526
 PDF     = output/libro-actividades.pdf
 
-# Recoge todos los .md de actividades/ en orden alfabético
-SOURCES = $(sort $(wildcard actividades/*.md))
+# Recoge todos los .md de actividades/ recursivamente, en orden alfabético
+SOURCES = $(shell find actividades -name "*.md" | sort)
 
 # ────────────────────────────────────────────
 build:
