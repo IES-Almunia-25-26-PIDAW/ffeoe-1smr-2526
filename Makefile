@@ -19,7 +19,8 @@ pdf:
 		--template=eisvogel \
 		--metadata-file=metadata.yaml \
 		--pdf-engine=xelatex \
-		--listings \
+		--syntax-highlighting=idiomatic \
+		--filter mermaid-filter \
 		-o $(PDF)
 
 # ────────────────────────────────────────────
