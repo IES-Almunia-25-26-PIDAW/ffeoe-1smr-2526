@@ -15,9 +15,12 @@ Para esta actividad necesitarás:
 - **Doc 4 — Listado de VLANs** y rango de direcciones IP en cada una de ellas.
 - **Doc 5 — Listado de conexiones.** Tabla con todos los puertos de los paneles de parcheo:
 
-| Armario / Panel / Puerto | Etiqueta | Sala donde termina | Etiqueta en roseta | Verificada | Switch / Puerto | VLAN | Conexión / Velocidad | Elemento conectado |
-| ------------------------ | -------- | ------------------ | ------------------ | ---------- | --------------- | ---- | -------------------- | ------------------ |
-|                          |          |                    |                    |            |                 |      |                      |                    |
+\small
+
+| Armario/Panel/Puerto | Etiqueta | Sala donde termina | Etiqueta en roseta | Verificada | Switch/Puerto | VLAN | Conexion/Velocidad | Elemento conectado |
+| -------------------- | -------- | ------------------ | ------------------ | ---------- | ------------- | ---- | ------------------ | ------------------ |
+| ejemplo              |          |                    |                    |            |               |      |                    |                    |
+\normalsize
 
 **Parte 1 — Localización de elementos en el plano**
 

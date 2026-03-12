@@ -1,7 +1,7 @@
 ```{=latex}
 \clearpage
 \thispagestyle{empty}
-\pagecolor{iesblue}
+\pagecolor{iesprimario}
 \vspace*{\fill}
 \begin{center}
   {\color{white}\fontsize{72}{86}\selectfont\bfseries Semana 4}
