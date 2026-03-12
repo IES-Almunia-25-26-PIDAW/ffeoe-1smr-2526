@@ -2,7 +2,7 @@
 #  Metadatos del documento
 # ──────────────────────────────────────────────
 title:    "Cuerderno de Actividades FFEOE"
-subtitle: "Sistemas Microinformáticos y Redes"
+subtitle: "Sistemas Microinformáticos y Redes - 2025/2026"
 author:   "I.E.S. Almunia"
 date:     \today
 lang:     es-ES
@@ -33,9 +33,9 @@ logo-width:           "35mm"
 # ──────────────────────────────────────────────
 header-left:   "\\includegraphics[height=0.75cm]{assets/logo-junta.png}"
 header-center: ""
-header-right:  "Libro de Actividades"
+header-right:  "\\rightmark"
 footer-left:   "\\textit{I.E.S. Almunia}"
-footer-center: "FFEOE 2025/2026"
+footer-center: "1º SMR - FFEOE 2025/2026"
 footer-right:  "\\thepage"
 
 # ──────────────────────────────────────────────

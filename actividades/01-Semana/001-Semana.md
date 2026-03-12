@@ -10,4 +10,5 @@
 \addcontentsline{toc}{section}{Semana 1}
 \clearpage
 \pagecolor{white}
+\markright{Semana 1}
 ```
