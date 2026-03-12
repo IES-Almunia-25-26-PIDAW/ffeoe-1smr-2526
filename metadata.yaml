@@ -1,8 +1,8 @@
 # ──────────────────────────────────────────────
 #  Metadatos del documento
 # ──────────────────────────────────────────────
-title:    "Libro de Actividades"
-subtitle: "1er Semestre · Formación y Orientación del Emprendimiento"
+title:    "Libro de Actividades FFEOE"
+subtitle: "Sistemas Microinformáticos y Redes"
 author:   "I.E.S. Almunia"
 date:     \today
 lang:     es-ES
@@ -19,9 +19,9 @@ linkcolor: "iesblue"
 #  Eisvogel — Portada
 # ──────────────────────────────────────────────
 titlepage:            true
-titlepage-color:      "FFFFFF"
-titlepage-text-color: "1C6EA4"
-titlepage-rule-color: "1C6EA4"
+titlepage-color:      "1C6EA4"
+titlepage-text-color: "FFFFFF"
+titlepage-rule-color: "FFFFFF"
 titlepage-rule-height: 4
 titlepage-logo:       "assets/logo.png"
 logo-width:           "35mm"

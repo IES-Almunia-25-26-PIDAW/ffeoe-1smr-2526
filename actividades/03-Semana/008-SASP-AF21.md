@@ -1,0 +1,5 @@
+## Sostenibilidad Aplicada al Sistema Productivo — AF21
+
+1. Busca en internet el "Estado de información no financiera" de dos empresas relacionadas con tu sector profesional e identifica los grupos de interés de cada una. Realiza un esquema resumen de los mismos.
+
+2. En la elaboración del plan de sostenibilidad, la empresa puede tener como uno de sus objetivos principales la reducción del consumo de agua. Elabora un indicador clave que englobe ese objetivo y justifica tu respuesta, encuadrándolo en tu sector productivo.

@@ -1,0 +1,8 @@
+## Digitalización aplicada a los Sectores Productivos — AF19
+
+1. Identifica una empresa en tu área que aún no haya incorporado tecnologías clave para digitalizar sus servicios. Investiga posibles tecnologías que podrían ser beneficiosas para mejorar su eficiencia operativa. Describe cómo la implementación de estas tecnologías podría potenciar su rendimiento.
+
+   *Ejemplo:*
+   - **Empresa seleccionada:** un pequeño restaurante local que aún utiliza métodos tradicionales para gestionar pedidos y reservas.
+   - **Tecnología propuesta:** sistema de gestión de pedidos y reservas en línea.
+   - **Cómo mejoraría la eficiencia:** los clientes podrían realizar pedidos y reservas desde sus dispositivos, reduciendo la carga administrativa del personal, evitando malentendidos y mejorando la planificación de la capacidad.
