@@ -1,23 +1,27 @@
-## Aplicaciones Ofimáticas — AF101 y AF102
+## Aplicaciones Ofimáticas
 
-### ASISTENCIA TÉCNICA EN EL USO DE APLICACIONES
+### `AF101` Asistencia técnica en el uso de aplicaciones
+  
+#### Detalle de la tarea
 
-| Código  | Módulo profesional | Resultado de aprendizaje | Criterios de evaluación         |
-| ------- | ------------------ | ------------------------ | ------------------------------- |
-| `AF101` | `APLOF`            | `RA9`                    | `9b`,`9c`,`9d`,`9e`,`9g` y `9h` |
+  - Resultado de aprendizaje: `RA9`
+  - Criterio de evaluación: `9b`, `9c`, `9d`, `9e`, `9g` y `9h`
 
-**TAREA 0. Documentación de incidencias (hardware, software o red)**
+#### Descripción
+
+**Documentación de incidencias (hardware, software o red)**
 
 Esta tarea será realizada durante todo el periodo de prácticas.
 
 
-### CREAR TUTORIAL PASO A PASO
+### `AF102` Creación de manuales de usuarios
 
-| Código  | Módulo profesional | Resultado de aprendizaje | Criterios de evaluación |
-| ------- | ------------------ | ------------------------ | ----------------------- |
-| `AF102` | `APLOF`            | `RA9`                    | `9a`                    |
+#### Detalle de la tarea
 
-**TAREA 1. Crear tutorial paso a paso**
+- Resultado de aprendizaje: `RA9`
+- Criterio de evaluación: `9a`
+
+#### Descripción
 
 - **PASO 1 —** Identificar la necesidad de un tutorial (hacer un cuestionario y entregarlo a profesores, personal administrativo…)
 - **PASO 2 —** Búsqueda de documentación de esa aplicación
@@ -25,7 +29,7 @@ Esta tarea será realizada durante todo el periodo de prácticas.
 - **PASO 4 —** Realizar tutorial paso a paso
 
 
-**Entrega:**
+#### Entrega
 
 - Cuestionario
 - Tutorial

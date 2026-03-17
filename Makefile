@@ -21,6 +21,7 @@ pdf:
 		--pdf-engine=xelatex \
 		--syntax-highlighting=idiomatic \
 		--filter mermaid-filter \
+		--toc-depth=2 \
 		-o $(PDF)
 
 # ────────────────────────────────────────────

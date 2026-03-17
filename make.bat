@@ -36,6 +36,7 @@ docker run --rm ^
  --metadata-file=metadata.yaml ^
  --pdf-engine=xelatex ^
  --syntax-highlighting=idiomatic ^
+ --toc-depth=2  ^
  --filter mermaid-filter ^
  -o %PDF%
 
