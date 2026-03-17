@@ -43,6 +43,7 @@ footer-right:  "\\thepage"
 # ──────────────────────────────────────────────
 toc:          true
 toc-own-page: true
+toc-depth:    2
 toc-title:    "Índice de actividades"
 
 # ──────────────────────────────────────────────
