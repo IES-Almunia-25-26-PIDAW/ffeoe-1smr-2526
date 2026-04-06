@@ -1,13 +1,22 @@
-## Redes Locales — AF7
+## Redes Locales
 
-**Actividad Formativa 7 — Reconocimiento de la red**
+### `AF107` — Reconocimiento de la red
+
+#### Detalle de la tarea:
+
+  - Resultado de aprendizaje: `RA5`
+  - Criterio de evaluación: `5a`, `5e`, `5f` y `5h`
+
+#### Descripción de la tarea:
 
 Para esta actividad necesitarás:
 
 - Un plano del C.E.I.P.
 - Cuaderno o papel para hacer anotaciones
 
-**Producto final:** Documentación de la red que contenga lo siguiente:
+#### Producto final:
+
+Documentación de la red que contenga lo siguiente:
 
 - **Doc 1 — Plano del CEIP** con la ubicación de todos los armarios identificados, la ubicación de todas las tomas en roseta y el recorrido del cableado.
 - **Doc 2 — Para cada armario:** esquema con los elementos que contiene identificados y lista de los elementos con breve descripción.
@@ -56,7 +65,7 @@ De cada armario:
 - Para cada puerto del panel de parcheo, comprueba si tiene un latiguillo hasta el switch correspondiente. Completa las columnas: Switch / Puerto, VLAN, Conexión / Velocidad.
 - Para cada puerto del panel de parcheo, intenta identificar qué elemento hay conectado e indícalo en la tabla.
 
-**Entrega:**
+#### Entrega:
 
 - Para el profesorado: Doc 7.1 a Doc 7.5
 - Para el CEIP:
