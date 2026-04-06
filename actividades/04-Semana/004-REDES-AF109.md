@@ -1,6 +1,11 @@
-## Redes Locales — AF109
+## 🌐 Redes Locales
 
-**Actividad Formativa 9 — Resolución de incidencias y/o aplicación de mejoras**
+### `AF109` - Resolución de incidencias y/o aplicación de mejoras
+
+  - Resultado de aprendizaje: `RA5`
+  - Criterio de evaluación: `5f`, `5g`, y `5h`
+
+#### Descripción de la tarea:
 
 *(Se realizará durante la semana 4 y 5)*
 
@@ -9,7 +14,9 @@ Para esta actividad necesitarás:
 - Los partes técnicos de la actividad anterior.
 - Herramientas para el diagnóstico de averías: tester, ordenadores, etc.
 
-**Producto final:** Partes técnicos de incidencias resueltas según modelo proporcionado.
+#### Producto final:
+
+Partes técnicos de incidencias resueltas según modelo proporcionado.
 
 **Opción primera: si en el CEIP (cliente) nos han indicado incidencias detectadas**
 

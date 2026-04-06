@@ -1,12 +1,13 @@
-## Aplicaciones Ofimáticas — AF103
+## 🗂️ Aplicaciones Ofimáticas
 
-### PLAN DE BACKUP Y SEGURIDAD
+### `AF103` - Realizar tareas de backup de archivos importantes.
 
-| Código  | Módulo profesional | Resultado de aprendizaje | Criterios de evaluación |
-| ------- | ------------------ | ------------------------ | ----------------------- |
-| `AF103` | `APLOF`            | `RA9`                    | `9f`                    |
+  - Resultado de aprendizaje: `RA9`
+  - Criterio de evaluación: `9f`
 
-**Tarea 5. Realizar tareas de backup de archivos importantes**
+#### Descripción de la tarea:
+
+Tendrás que realizar tareas de backup de archivos importantes
 
 - **Parte 1 —** Crear un plan de backup de archivos.
 - **Parte 2 —** Implantación.

@@ -1,4 +1,4 @@
-## 📷 Redes Locales
+## 🌐 Redes Locales
 
 ### `AF108` - Diagnóstico de incidencias y/o chequeo completo de la red
 

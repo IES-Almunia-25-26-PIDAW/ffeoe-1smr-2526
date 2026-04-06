@@ -7,6 +7,7 @@
   {\color{white}\fontsize{72}{86}\selectfont\bfseries Semana 5}
 \end{center}
 \vspace*{\fill}
+\phantomsection
 \addcontentsline{toc}{section}{Semana 5}
 \clearpage
 \pagecolor{white}

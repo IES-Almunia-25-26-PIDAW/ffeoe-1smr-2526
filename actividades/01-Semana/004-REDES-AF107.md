@@ -1,7 +1,6 @@
-## Redes Locales
+## 🌐 Redes Locales
 
 ### `AF107` — Reconocimiento de la red
-
 
   - Resultado de aprendizaje: `RA5`
   - Criterio de evaluación: `5a`, `5e`, `5f` y `5h`
@@ -23,12 +22,20 @@ Documentación de la red que contenga lo siguiente:
 - **Doc 4 — Listado de VLANs** y rango de direcciones IP en cada una de ellas.
 - **Doc 5 — Listado de conexiones.** Tabla con todos los puertos de los paneles de parcheo:
 
-\small
-
-| Armario/Panel/Puerto | Etiqueta | Sala donde termina | Etiqueta en roseta | Verificada | Switch/Puerto | VLAN | Conexion/Velocidad | Elemento conectado |
-| -------------------- | -------- | ------------------ | ------------------ | ---------- | ------------- | ---- | ------------------ | ------------------ |
-| ejemplo              |          |                    |                    |            |               |      |                    |                    |
-\normalsize
+```{=latex}
+\begingroup
+\footnotesize
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{1.8}
+\noindent\begin{tabular}{|>{\raggedright\arraybackslash}p{2.1cm}|>{\raggedright\arraybackslash}p{1.2cm}|>{\raggedright\arraybackslash}p{1.3cm}|>{\raggedright\arraybackslash}p{1.3cm}|>{\raggedright\arraybackslash}p{1.5cm}|>{\raggedright\arraybackslash}p{1.4cm}|>{\raggedright\arraybackslash}p{0.8cm}|>{\raggedright\arraybackslash}p{1.8cm}|>{\raggedright\arraybackslash}p{2.1cm}|}
+\hline
+\textbf{Armario / Panel / Puerto} & \textbf{Etiqueta} & \textbf{Sala donde termina} & \textbf{Etiqueta en roseta} & \textbf{Verificada} & \textbf{Switch / Puerto} & \textbf{VLAN} & \textbf{Conexión / Velocidad} & \textbf{Elemento conectado} \\
+\hline
+ejemplo & & & & & & & & \\[1.5cm]
+\hline
+\end{tabular}
+\endgroup
+```
 
 **Parte 1 — Localización de elementos en el plano**
 
