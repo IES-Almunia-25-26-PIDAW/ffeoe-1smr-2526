@@ -52,7 +52,10 @@ toc-title:    "Índice de actividades"
 # ──────────────────────────────────────────────
 header-includes:
   - \definecolor{iesprimario}{HTML}{00693d}
-  - \usepackage{sectsty}
-  - \subsectionfont{\color{iesprimario}\fontsize{14}{17}\selectfont}
+  - \usepackage{titlesec}
+  - \titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{1em}{}
+  - \titleformat{\subsection}{\color{iesprimario}\fontsize{14}{17}\selectfont\bfseries}{\thesubsection}{1em}{}
+  - \titleformat{\subsubsection}{\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
+  - \titleformat{\paragraph}[runin]{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
   - \pretocmd{\section}{\clearpage}{}{}
   - \pretocmd{\subsection}{\clearpage}{}{}
