@@ -54,6 +54,7 @@ header-includes:
   - \definecolor{iesprimario}{HTML}{00693d}
   - \definecolor{badgebg}{HTML}{e8f0e9}
   - '\renewcommand{\passthrough}[1]{\colorbox{badgebg}{\textcolor{magenta}{\texttt{\small #1}}}}'
+  - '\AtBeginDocument{\lstset{language={},basicstyle=\color{magenta}\small\ttfamily,keywordstyle=\color{magenta},identifierstyle=\color{magenta},stringstyle=\color{magenta}}}'
   - \usepackage{titlesec}
   - \titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{1em}{}
   - \titleformat{\subsection}{\color{iesprimario}\fontsize{14}{17}\selectfont\bfseries}{\thesubsection}{1em}{}
