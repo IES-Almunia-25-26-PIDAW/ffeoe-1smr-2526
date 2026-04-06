@@ -18,7 +18,7 @@ pdf:
 		--from markdown \
 		--template=eisvogel \
 		--metadata-file=metadata.yaml \
-		--pdf-engine=xelatex \
+		--pdf-engine=lualatex \
 		--syntax-highlighting=idiomatic \
 		--filter mermaid-filter \
 		-o $(PDF)

@@ -29,7 +29,7 @@ Para cada incidencia:
 
 - Ejecutar alguna mejora (si se acepta). Se documentará con una pequeña memoria: proyecto, pasos seguidos en la realización, resultado, etc.
 
-**Entrega:**
+#### Entrega:
 
 - Para el profesorado: proyectos y memorias de las actuaciones.
 - Para el CEIP: proyectos y memorias de las actuaciones.

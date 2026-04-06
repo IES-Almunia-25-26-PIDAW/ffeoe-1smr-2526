@@ -1,6 +1,11 @@
-## Redes Locales — AF108
+## 📷 Redes Locales
 
-**Actividad Formativa 8 — Diagnóstico de incidencias y/o chequeo completo de la red**
+### `AF108` - Diagnóstico de incidencias y/o chequeo completo de la red
+
+  - Resultado de aprendizaje: `RA5`
+  - Criterio de evaluación: `5a`, `5b`, `5c`, `5d` y `5e`
+
+#### Descripción de la tarea:
 
 *(Se realizará durante la semana 2 y 3)*
 
@@ -24,7 +29,7 @@ Para cada incidencia:
 - Hacer una revisión física con un tester de cada una de las tomas y anotar las incidencias detectadas, cada una en un parte técnico de incidencias.
 - Hacer pruebas de conectividad y velocidad en cada ordenador y anotar las incidencias detectadas, cada una en un parte técnico de incidencias.
 
-**Entrega:**
+#### Entrega:
 
 - Para el profesorado: escaneos de los partes técnicos con las incidencias comunicadas o detectadas en la revisión.
 - Para el CEIP: escaneos de los partes técnicos con las incidencias comunicadas o detectadas en la revisión.

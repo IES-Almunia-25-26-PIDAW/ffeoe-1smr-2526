@@ -6,6 +6,6 @@
 - **PARTE 2 —** Realizar una presentación con los puntos más importantes del manual de usuario
 - **PARTE 3 —** Realizar la formación
 
-**Entrega:**
+#### Entrega:
 
 - Presentación

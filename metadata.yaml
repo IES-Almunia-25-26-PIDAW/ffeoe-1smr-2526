@@ -59,6 +59,7 @@ header-includes:
   - \titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{1em}{}
   - \titleformat{\subsection}{\color{iesprimario}\fontsize{14}{17}\selectfont\bfseries}{\thesubsection}{1em}{}
   - \input{assets/heading-styles.tex}
+  - \input{assets/emoji-setup.tex}
   - \titleformat{\paragraph}{\color{iesprimario}\normalsize\bfseries}{\theparagraph}{1em}{}
   - \titlespacing*{\paragraph}{0pt}{1.2ex plus 0.2ex minus 0.2ex}{0.3ex}
   - \pretocmd{\section}{\clearpage}{}{}

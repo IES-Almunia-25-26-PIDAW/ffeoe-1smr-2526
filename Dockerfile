@@ -1,7 +1,7 @@
 FROM pandoc/extra:latest
 
-# Instalar Node.js, Chromium y mermaid-filter para diagramas Mermaid
-RUN apk add --no-cache nodejs npm chromium
+# Instalar Node.js, Chromium, mermaid-filter y fuente emoji
+RUN apk add --no-cache nodejs npm chromium font-twemoji tlmgr install newunicodechar
 
 ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
 ENV PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium-browser

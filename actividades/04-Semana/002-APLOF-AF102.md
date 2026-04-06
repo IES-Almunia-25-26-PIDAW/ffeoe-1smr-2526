@@ -11,7 +11,7 @@
 - **Parte 1 —** Realizar cuestionario para profesores y personal administrativo sobre cosas que les gustaría realizar de forma más eficiente.
 - **Parte 2 —** Realizar documentación para el asesoramiento técnico de cómo optimizar el uso de herramientas.
 
-**Entrega:**
+#### Entrega:
 
 - Cuestionario
 - Documentación de mejoras

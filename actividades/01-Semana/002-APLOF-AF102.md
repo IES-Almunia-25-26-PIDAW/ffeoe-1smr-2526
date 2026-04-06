@@ -1,8 +1,6 @@
 ## Aplicaciones Ofimáticas
 
 ### `AF101` - Asistencia técnica en el uso de aplicaciones
-  
-#### Detalle de la tarea:
 
   - Resultado de aprendizaje: `RA9`
   - Criterio de evaluación: `9b`, `9c`, `9d`, `9e`, `9g` y `9h`
@@ -13,8 +11,6 @@ Documentación de incidencias (hardware, software o red). Esta tarea será reali
 
 
 ### `AF102` - Creación de manuales de usuarios
-
-#### Detalle de la tarea:
 
 - Resultado de aprendizaje: `RA9`
 - Criterio de evaluación: `9a`

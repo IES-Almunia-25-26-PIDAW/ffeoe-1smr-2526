@@ -11,6 +11,6 @@
 - **Parte 1 —** Crear un plan de backup de archivos.
 - **Parte 2 —** Implantación.
 
-**Entrega:**
+#### Entrega:
 
 - Plan de backup y de seguridad.

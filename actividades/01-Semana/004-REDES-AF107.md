@@ -2,7 +2,6 @@
 
 ### `AF107` — Reconocimiento de la red
 
-#### Detalle de la tarea:
 
   - Resultado de aprendizaje: `RA5`
   - Criterio de evaluación: `5a`, `5e`, `5f` y `5h`
