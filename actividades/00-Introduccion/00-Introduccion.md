@@ -20,4 +20,4 @@ Sigue el guión semanal, mantén el cuadernillo al día y consulta con tu tutor 
 
 ### Entregas y consideraciones
 
-Usaremos **Moodle** para el seguimiento de las actividades. Sigue las indicaciones del profesorado de cada una de las materias. 
+Por norma general usaremos **Moodle** para el seguimiento de las actividades. Sigue las indicaciones del profesorado de cada una de las materias por si hubiera alguna excepción al respecto.

@@ -1,6 +1,6 @@
 ## 🗂️ Aplicaciones Ofimáticas
 
-### `AF102` - Parte 2/3 - Utilizar manuales de usuario de aplicaciones para instruir a los docentes o personal del colegio
+### `AF102` - Parte 2/3 - Creación de manuales de usuarios
 
   - Resultado de aprendizaje: `RA9`
   - Criterio de evaluación: `9a`
