@@ -1,0 +1,12 @@
+\makeatletter
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-3.25ex\@plus-1ex\@minus-.2ex}%
+  {1.5ex\@plus.2ex}%
+  {\color{iesprimario}\fontsize{14}{17}\selectfont\bfseries}}
+\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
+  {1.2ex\@plus0.2ex\@minus0.2ex}%
+  {0.3ex}%
+  {\color{iesprimario}\normalsize\bfseries}}
+\makeatother
+\pretocmd{\section}{\clearpage}{}{}
+\pretocmd{\subsection}{\clearpage}{}{}

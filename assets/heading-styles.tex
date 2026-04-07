@@ -1,9 +1,12 @@
-\titleformat{\subsubsection}
-  {\normalfont\normalsize\bfseries%
-    \let\ttold\texttt
-    \renewcommand{\texttt}[1]{%
-      \setlength{\fboxsep}{1.5pt}%
-      \colorbox{badgebg}{\ttold{\textcolor{magenta}{##1}}}%
-    }%
-  }
-  {\thesubsubsection}{1em}{}[\titlerule]
+\makeatletter
+% Guardamos \texttt original y definimos la variante para subsubsection
+\let\@texttt@orig\texttt
+\newcommand{\@subsubsectiontexttt}[1]{%
+  \setlength{\fboxsep}{1.5pt}%
+  \colorbox{badgebg}{\@texttt@orig{\textcolor{magenta}{#1}}}%
+}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-3.25ex\@plus-1ex\@minus-.2ex}%
+  {1.5ex\@plus.2ex}%
+  {\normalfont\normalsize\bfseries\let\texttt\@subsubsectiontexttt}}
+\makeatother
